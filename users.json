@@ -1,0 +1,27 @@
+var users=[
+{
+    "user1" : {
+       "name" : "Sagar",
+       "password" : "password1",
+       "profession" : "software developer",
+       "id": 1
+    },
+    "user2" : {
+       "name" : "Mitesh",
+       "password" : "password2",
+       "profession" : "software developer",
+       "id": 2
+    },
+    "user3" : {
+       "name" : "Ronak",
+       "password" : "password3",
+       "profession" : "software develoaccper",
+       "id": 3
+    },
+    "user4" : {
+        "name" : "user4",
+        "password" : "password4",
+        "profession" : "CEO",
+        "id": 4 
+     }
+ }];
